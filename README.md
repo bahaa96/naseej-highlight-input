@@ -15,3 +15,4 @@ import "naseej-highlight-input/dist/index.css";
 ```
 
 https://www.youtube.com/embed/tpoySDCmv2g?si=2DJ4HyVrgW_NFT90
+https://www.npmjs.com/package/naseej-highlight-input
