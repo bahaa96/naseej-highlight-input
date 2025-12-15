@@ -1,0 +1,60 @@
+.highlight-input {
+  position: relative;
+  width: 100%;
+  font: 14px/1.4 system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.highlight-input__mirror {
+  position: absolute;
+  width: 100%;
+  inset: 0;
+  padding: 8px 10px;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  color: #111827; /* normal text color */
+  pointer-events: none; /* prevent selection/clicks */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+.highlight-input__mirror::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+.highlight-input__match {
+  background-color: rgba(250, 204, 21, 0.4); /* soft yellow */
+  color: #111827;
+  border-radius: 2px;
+}
+
+.highlight-input__field {
+  position: relative;
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 4px;
+  border: 1px solid #d1d5db;
+  background: transparent;
+  color: transparent; /* hide text */
+  caret-color: #111827; /* keep caret visible */
+  -webkit-text-fill-color: transparent; /* Safari */
+  font: inherit;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+.highlight-input__field::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+.highlight-input__label {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #4b5563;
+  text-transform: capitalize;
+}
