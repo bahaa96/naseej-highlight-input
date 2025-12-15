@@ -14,4 +14,4 @@ import { HighlightInput } from "naseej-highlight-input";
 import "naseej-highlight-input/dist/index.css";
 ```
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/tpoySDCmv2g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpoySDCmv2g?si=2DJ4HyVrgW_NFT90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
