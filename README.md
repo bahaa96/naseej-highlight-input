@@ -14,8 +14,8 @@ import { HighlightInput } from "naseej-highlight-input";
 import "naseej-highlight-input/dist/index.css";
 ```
 
-https://www.youtube.com/embed/tpoySDCmv2g?si=2DJ4HyVrgW_NFT90
+Youtube => https://www.youtube.com/embed/tpoySDCmv2g?si=2DJ4HyVrgW_NFT90
 <br>
-https://www.npmjs.com/package/naseej-highlight-input
+NPM Registery => https://www.npmjs.com/package/naseej-highlight-input
 <br>
-https://naseej-highlight-input-8uf5.vercel.app/?path=/story/example-highlightinput--primary
+Vercel => https://naseej-highlight-input-8uf5.vercel.app/?path=/story/example-highlightinput--primary
