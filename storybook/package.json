@@ -12,7 +12,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "naseej-highlight-input": "^1.0.13",
+    "naseej-highlight-input": "^1.0.14",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },

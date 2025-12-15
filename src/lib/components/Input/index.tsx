@@ -10,7 +10,7 @@ import classes from "./index.module.css";
 interface InputProps
   extends Omit<InputHTMLAttributes<HTMLInputElement>, "value" | "onChange"> {
   label?: string;
-  highlightPattern?: RegExp;
+  highlightPattern?: string;
   value: string;
   onChange?: (value: string) => void;
 }

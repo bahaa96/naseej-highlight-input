@@ -27,7 +27,7 @@ const meta = {
   // Use `fn` to spy on the onClick arg, which will appear in the actions panel once invoked: https://storybook.js.org/docs/essentials/actions#story-args
   args: {
     label: "type your text here",
-    highlightPattern: /(?:[a-zA-Z0-9]+)/g,
+    highlightPattern: "(\\d+)",
     value: "",
     onChange: (value) => {
       console.log(value);
